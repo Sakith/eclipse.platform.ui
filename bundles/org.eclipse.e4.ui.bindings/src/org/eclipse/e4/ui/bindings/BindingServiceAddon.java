@@ -19,8 +19,9 @@ import org.eclipse.e4.ui.bindings.internal.BindingServiceCreationFunction;
 import org.eclipse.e4.ui.bindings.internal.BindingTableManager;
 import org.eclipse.e4.ui.bindings.internal.ContextSet;
 
+//test123321 again asdfa eserwe werqr
 /**
- * Provide the binding and context id services as an add-on. Must be instantiated against the
+ * aa Provide the binding and context id services as an add-on. Must be instantiated against the
  * application level context.
  */
 public final class BindingServiceAddon {
