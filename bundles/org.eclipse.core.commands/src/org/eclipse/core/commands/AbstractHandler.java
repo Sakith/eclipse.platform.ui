@@ -17,7 +17,7 @@ import org.eclipse.core.commands.common.EventManager;
  * 
  * test
  * 
- * suppress
+ * suppress test git
  * 
  * This class is a partial implementation of <code>IHandler</code>. This
  * abstract implementation provides support for handler listeners. You should
